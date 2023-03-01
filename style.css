@@ -1,0 +1,73 @@
+p {
+        text-shadow: -2px -3px 4px rgba(78, 44, 75, 0.91);
+        
+}
+
+
+
+h2,h3,h3,h4,h5{
+     color:grey;
+     background-color:rgb(240, 175, 202);
+    }
+    h1 {
+        text-shadow: -2px -3px 4px rgba(24,96,142,0.91);
+     
+        font-family: Georgia, serif;
+font-size: 30px;
+letter-spacing: 0px;
+word-spacing: 2px;
+color: gray;
+font-weight: 700;
+text-decoration: none solid rgba(24,96,142,0.91);
+font-style: italic;
+font-variant: small-caps;
+text-transform: capitalize;
+
+        }
+        header{ transform: translate(10%,0%)
+
+        }
+        section {
+                width: 250px;
+                border: 10px solid rgba(197, 170, 241, 0.616);
+                padding: 50px;
+                margin: 20px;
+                transform: translate(0%, 0%);
+            }
+         aside {
+                width: 300px;
+                padding: 50px;
+                margin: 10px;
+                position: right;
+                transform: translate(110%, -110%);}
+               
+         .sociales {
+                        height:40px;
+                        }
+                a.instagram {
+                        
+                        height: 24px;
+                        width: 24px;
+                        background-image: url(imagenes/instagram1.png);
+                       
+                        float: right;
+                        margin-right: 10px;
+                    }
+                        
+                a.facebook {
+                        height:24px;
+                        width:24px;
+                        background-image:url(imagenes/facebook.png);
+                        float:right;
+                        margin-right: 5px;
+                        }
+                   
+                a.Gmail {
+                        height:28px;
+                        width:28px;
+                        background-image:url(imagenes/descarga1.png);
+                        
+                        float:right;
+                        margin-right: 3px;
+                        }
+        
